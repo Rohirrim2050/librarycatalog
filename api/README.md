@@ -6,7 +6,7 @@
 
 ## Instructions
 
-- Download
+- Use any IDE and go to this repository **https://github.com/Rohirrim2050/librarycatalog** to clone it.
 - Locate this file in your IDE and right-click **Run As** then **Java Application**.
 
 ```
@@ -20,7 +20,7 @@
 
 ```
 
-- Locate this folder in your IDE and right-click **Run As** then **JUnit Test**. 
+- Locate this folder in your IDE and right-click **Run As** then **JUnit Test**. Run the test from the folder level. If there is a failure in one of the tests, go to the data files stated above and remove the newly-added lines.  Then, run the tests again.
 
 ```
 ../api/src/test/java/com/librarycatalog/api/controller
