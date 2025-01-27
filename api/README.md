@@ -7,17 +7,15 @@
 ## Instructions
 
 - Use any IDE and go to this repository **https://github.com/Rohirrim2050/librarycatalog** to clone it.
-- Locate this file in your IDE and right-click **Run As** then **Java Application**.
-
-```
-../api/src/main/java/com/librarycatalog/api/LibraryCatalogApiApplication.java
-```
-
 - Check this location on your local machine. Make sure there are three text files, **books**, **borrowers** and **borrowers_records**.  The borrowers_records will be an empty file.
  
 ```
 ../api/target/classes/data
+```
+- Locate this file in your IDE and right-click **Run As** then **Java Application**.
 
+```
+../api/src/main/java/com/librarycatalog/api/LibraryCatalogApiApplication.java
 ```
 
 - Locate this folder in your IDE and right-click **Run As** then **JUnit Test**. Run the test from the folder level. If there is a failure in one of the tests, go to the data files stated above and remove the newly-added lines.  Then, run the tests again.
