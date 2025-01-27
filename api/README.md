@@ -18,7 +18,7 @@
 ../api/src/main/java/com/librarycatalog/api/LibraryCatalogApiApplication.java
 ```
 
-- Locate this folder in your IDE and right-click **Run As** then **JUnit Test**. Run the test from the folder level. If there is a failure in one of the tests, go to the data files stated above and remove the newly-added lines.  Then, run the tests again.
+- Locate this folder in your IDE and right-click **Run As** then **JUnit Test**. Run the test from the folder level. If there is a failure in one of the tests, stop the application.  Go to the data files stated above and remove the newly-added lines.  Then, run the tests again.
 
 ```
 ../api/src/test/java/com/librarycatalog/api/controller
